@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Ledger",
+  "description": "A browser-native prompt workspace for people who constantly refine, reuse, fork, and paste prompts.",
+  "requestFramePermissions": []
+}
