@@ -72,8 +72,8 @@ export function Sidebar() {
       >
         <div className="p-4 flex items-center justify-between border-b border-[var(--appBorder)]">
           <div>
-            <p className="text-[10px] uppercase tracking-[0.35em] text-[var(--appTextMuted)]">Notebook</p>
-            <h1 className="font-semibold text-lg tracking-tight text-[var(--appText)]">Prompt Sack</h1>
+            <p className="text-[10px] uppercase tracking-[0.35em] text-[var(--appTextMuted)]">COMMAND CENTER</p>
+            <h1 className="font-semibold text-lg tracking-tight text-[var(--appText)]">PromptSack</h1>
           </div>
           <div className="flex items-center space-x-1">
             <button onClick={cycleTheme} className="p-1.5 text-[var(--appTextMuted)] hover:bg-[var(--appAccentSoft)] rounded-md transition-colors" title="Cycle theme">
